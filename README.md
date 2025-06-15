@@ -2,7 +2,7 @@
 # 📚 AI Book Summarizer
 
 An AI-powered book summarizer built with **Node.js (Backend)** and **Vercel (Frontend)**, using **GROQ API** for generating summaries. This project is designed to be cost-effective using **free tools and APIs**, with support for user-supplied API keys.
-
+<img width="1352" alt="Image" src="https://github.com/user-attachments/assets/4be5ff8b-1cc5-47f4-9f7a-656b8e25cd8d" />
 ---
 
 ## 🧠 Features
@@ -63,7 +63,7 @@ GROQ_API_KEY=your_key_here
 
 npm start
 ```
-
+<img width="1352" alt="Image" src="https://github.com/user-attachments/assets/7101cf71-1eca-42df-a50c-416d85664d3d" />
 ---
 
 ## 🌐 Deployment
